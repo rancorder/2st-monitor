@@ -342,12 +342,7 @@ Read-Host "`nEnterキーを押して終了"
 
 ### 起動方法
 
-**方法1: ダブルクリック（簡単）**
-
-1. デスクトップの `2st-monitor` フォルダを開く
-2. `start.bat` をダブルクリック
-
-**方法2: PowerShellから実行**
+**方法: PowerShellから実行**
 
 ```powershell
 cd $HOME\Desktop\2st-monitor
