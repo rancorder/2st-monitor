@@ -24,7 +24,7 @@ const crypto = require('crypto');
 
 const CONFIG = {
   // ChatWorkトークン
-  chatworkToken: '987cf44efbf5529a09b1317a85058640',
+  chatworkToken: 'your token',
   
   // 監視間隔（秒）
   checkInterval: 30,
